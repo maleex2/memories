@@ -1,4 +1,4 @@
-# MERN stack used as well as Material-UI and Redux
+# MERN stack application created to practise Redux, Material-UI, Node and Express.
 
 # Getting Started with Create React App
 
